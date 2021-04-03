@@ -1,4 +1,4 @@
-# Portfólio
- Meu primeiro portfólio usando HTML e CSS
+# Currículo interativo
 
-Essa linha eu adicionei diretamente no site do GitHub.
+ Currículo criado usando HTML e CSS, com links e uma versão Dark Mode
+
