@@ -34,6 +34,7 @@ html, body, figure, img, div, input, textarea, p, h1 , h2, h3, h4, h5, h6, ul, l
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
 /* HEADER */
 header{
     background-color: var(--corBackgroundPrimaria);
@@ -126,14 +127,13 @@ footer nav .redes-sociais li{
     margin: 15px 25px;
     text-align: center;
     display: inline-block;
-
 }
 footer nav .redes-sociais li a img{
     width: 40px;
     color: white;
 }
-/* DARK MODE */
 
+/* DARK MODE */
 .ativar-dark{
     display: none;
 }
@@ -151,15 +151,13 @@ label{
     padding: 4px 4px;
     box-sizing: border-box;
     cursor: pointer;
-
 }
 label span{
     width: 20px;
     height: 20px;
     display: block;
     background-color: #D9D9D9;
-    border-radius: 100%;
-    
+    border-radius: 100%;   
 }
 .ativar-dark:checked ~ .dark-mode label{
     background-color: #F2F2F2 ;
@@ -190,7 +188,6 @@ label span{
 .ativar-dark:checked ~ .dark-mode main{
     background-color: var(--corBackgroundSecundaria);
 }
-
 
 
 /* MEDIA */
