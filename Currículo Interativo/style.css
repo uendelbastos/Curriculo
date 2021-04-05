@@ -88,7 +88,7 @@ main .coluna{
 main .coluna section{
     border-bottom: 1px solid #d4e9ff;
     margin: 0 0 20px;
-    min-height: 187px;
+    min-height: 215px;
     color: var(--corTextSecundaria);
 }
 main .coluna section h2{
